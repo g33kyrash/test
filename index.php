@@ -5,7 +5,7 @@
 
 <popeye the sailor man>
 
-flag=secret
+cat images
 
 <first commit>
 <people getting in the train>
